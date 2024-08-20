@@ -1,3 +1,4 @@
-from .base_template import *
+from .bot import *
+#from .logic import *
 
-__all__ = (base_template)
+__all__ = ["bot"]

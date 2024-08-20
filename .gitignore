@@ -1,1 +1,4 @@
 project_env/
+core/.env
+core/__pycache__
+TODO.md
